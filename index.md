@@ -223,8 +223,8 @@ to match your plans.  You may also want to change 'Day 1' and 'Day
 <hr/>
 
 <h2 id="materials">Course Materials</h2>
-<a href="https://github.com/smcclatchy/machine-learning-python/tree/master/data">Mouse protein data</a> 
-<a href="https://github.com/smcclatchy/machine-learning-python/tree/master/doc">Course presentations, notebooks, and documentation</a> 
+<p><a href="https://github.com/smcclatchy/machine-learning-python/tree/master/data">Mouse protein data</a></p> 
+<p><a href="https://github.com/smcclatchy/machine-learning-python/tree/master/doc">Course presentations, notebooks, and documentation</a></p>
 
 {% comment %}
 SYLLABUS
