@@ -223,7 +223,8 @@ to match your plans.  You may also want to change 'Day 1' and 'Day
 <hr/>
 
 <h2 id="materials">Course Materials</h2>
-<p><a href="https://github.com/smcclatchy/machine-learning-python/tree/master/data">Mouse protein data</a></p> 
+<p><a href="https://www.dropbox.com/sh/llkyarujflf7huj/AADHRF8BuYgEH2udqxA5zLlba?dl=0">Mouse protein 2f2c data</a></p> 
+{% comment %}<p><a href="https://github.com/smcclatchy/machine-learning-python/tree/master/data">Mouse protein data</a></p>{% endcomment %}
 <p><a href="https://github.com/smcclatchy/machine-learning-python/tree/master/doc">Course presentations, notebooks, and documentation</a></p>
 
 {% comment %}
