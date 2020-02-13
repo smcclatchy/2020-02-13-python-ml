@@ -13,7 +13,7 @@ enddate: 2020-02-21
 instructor: ["Asli Uyar", "Asa Thibodeau"]
 helper: [""]  
 email: ["susan.mcclatchy@jax.org"]
-collaborative_notes:             # optional: URL for the workshop collaborative notes, e.g. an Etherpad or Google Docs document (e.g., https://pad.carpentries.org/2015-01-01-euphoria)
+collaborative_notes: https://pad.carpentries.org/2020-02-13-ml
 eventbrite:           # optional: alphanumeric key for Eventbrite registration, e.g., "1234567890AB" (if Eventbrite is being used)
 ---
 
@@ -221,6 +221,10 @@ to match your plans.  You may also want to change 'Day 1' and 'Day
 {% include swc/schedule.html %}
 
 <hr/>
+
+<h2 id="materials">Course Materials</h2>
+<a href="https://github.com/smcclatchy/machine-learning-python/tree/master/data">Mouse protein data</a> 
+<a href="https://github.com/smcclatchy/machine-learning-python/tree/master/doc">Course presentations, notebooks, and documentation</a> 
 
 {% comment %}
 SYLLABUS
