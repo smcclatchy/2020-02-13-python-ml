@@ -206,6 +206,7 @@ We will use this <a href="{{page.collaborative_notes}}">collaborative document</
 {% comment %} 
 SURVEYS - DO NOT EDIT SURVEY LINKS 
 {% endcomment %}
+Please complete this brief anonymous <a href="https://www.surveymonkey.com/r/ml-python">post-workshop survey</a>.
 <hr/>
 
 
